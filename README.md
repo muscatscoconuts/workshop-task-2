@@ -1,4 +1,6 @@
 # workshop-task-2
+the url for this project : https://muscatscoconuts.github.io/workshop-task-2/
+(i had to refresh a few times for it to load properly)
 # workshop 2 ////
 software devs use integrated development environment
 vs code
